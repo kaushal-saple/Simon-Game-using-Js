@@ -1,0 +1,36 @@
+.main{
+    text-align: center;
+}
+
+.box_container{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 1rem
+}
+
+.red{
+    background-color: #d95980;
+}
+
+.orange{
+    background-color: #f99b45;
+}
+
+.green{
+    background-color: #63acc0;
+}
+
+.blue{
+    background-color: #819ff9;
+}
+
+.flash{
+    background-color: white;
+}
